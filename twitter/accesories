@@ -1,0 +1,19 @@
+trend_text_color:#d9d9d9;
+trend_light_text:#6e767d;
+blue_color:#1da1f2;
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
+<i class="fas fa-hashtag"></i>
+<i class="fab fa-twitter"></i>
+<i class="fas fa-home"></i>
+<i class="far fa-bell"></i>
+<i class="far fa-envelope"></i>
+<i class="far fa-user"></i>
+<i class="fas fa-ellipsis-h"></i>
+<i class="fas fa-feather-alt"></i>
+<i class="fal fa-plus"></i>
+<i class="far fa-image"></i>
+<i class="fas fa-signal-alt-3"></i>
+<i class="far fa-smile"></i>
+<i class="fas fa-retweet"></i>
+<i class="far fa-comment"></i>
